@@ -1,5 +1,4 @@
-# huffman
-Huffman coding algorithm
+# Huffman coding algorithm
 Программа, выполняет сжатие алгоритмом Хаффмана.
 Параметры командной строки:
 -c архивирование
